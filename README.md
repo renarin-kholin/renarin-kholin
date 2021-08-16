@@ -5,4 +5,4 @@ I am a student and a Web Developer!
 
 ## Github Stats
 [![sarveshkolte's github stats](https://github-readme-stats.vercel.app/api?username=sarveshkolte)](https://github.com/sarveshkolte/github-readme-stats?show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshkolte?hide=css)](https://github.com/sarveshkolte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshkolte)](https://github.com/sarveshkolte/github-readme-stats)
