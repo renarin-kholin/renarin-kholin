@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, nextjs, angular and nestjs**
 
-- 📫 How to reach me **shishudesu@gmail.com**
+- 📫 How to reach me **renarinkholin4@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
