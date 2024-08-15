@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shishu</h1>
+<h1 align="center">Hi 👋, I'm Renarin</h1>
 <h3 align="center">A Web Developer and a student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishudesu&label=Profile%20views&color=0e75b6&style=flat" alt="shishudesu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renarin-kholin&label=Profile%20views&color=0e75b6&style=flat" alt="renarin-kholin" /> </p>
 
 
 - 🔭 I’m currently working on [Plutao](https://github.com/plutao-server/plutao)
 
 - 🌱 I’m currently learning **LLP**
 
-- 💬 Ask me about **react, angular and nestjs**
+- 💬 Ask me about **react, nextjs, angular and nestjs**
 
 - 📫 How to reach me **shishudesu@gmail.com**
 
