@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renarin-kholin&label=Profile%20views&color=0e75b6&style=flat" alt="renarin-kholin" /> </p>
 
 
-- 🔭 I’m currently working on [Plutao](https://github.com/plutao-server/plutao)
-
-- 🌱 I’m currently learning **LLP**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react, nextjs, angular and nestjs**
 
